@@ -1,0 +1,15 @@
+F:\VisualStudioRepos\LearnC#\Polar Coord System\bin\Debug\net7.0\Polar Coord System.exe
+F:\VisualStudioRepos\LearnC#\Polar Coord System\bin\Debug\net7.0\Polar Coord System.deps.json
+F:\VisualStudioRepos\LearnC#\Polar Coord System\bin\Debug\net7.0\Polar Coord System.runtimeconfig.json
+F:\VisualStudioRepos\LearnC#\Polar Coord System\bin\Debug\net7.0\Polar Coord System.dll
+F:\VisualStudioRepos\LearnC#\Polar Coord System\bin\Debug\net7.0\Polar Coord System.pdb
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.csproj.AssemblyReference.cache
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.AssemblyInfoInputs.cache
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.AssemblyInfo.cs
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.csproj.CoreCompileInputs.cache
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.dll
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\refint\Polar Coord System.dll
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.pdb
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\Polar Coord System.genruntimeconfig.cache
+F:\VisualStudioRepos\LearnC#\Polar Coord System\obj\Debug\net7.0\ref\Polar Coord System.dll

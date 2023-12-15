@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6q9wOMSPTXeFT/S1+ZirV8CALIzm08AajjLe4ClArSDrvWq1FWI2yd9/FS+nr5VKvely49A8hxXEUZhDpAqmfg==",
+  "success": true,
+  "projectFilePath": "F:\\VisualStudioRepos\\LearnC#\\Polar Coord System\\Polar Coord System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.29\\microsoft.windows.sdk.net.ref.10.0.17763.29.nupkg.sha512"
+  ],
+  "logs": []
+}
