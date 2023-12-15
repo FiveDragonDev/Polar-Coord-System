@@ -18,11 +18,11 @@ namespace Polar_Coord_System
             _graphics.Clear(Color.Black);
         }
 
-        public void DrawPoint(Point point, Color color)
+        public void DrawPoint(Point point, Color color, float size = 5)
         {
             float x = _width / 2 + point.Distance * (float)Math.Cos(point.Angle);
             float y = _height / 2 + point.Distance * (float)Math.Sin(point.Angle);
-            _graphics.FillEllipse(new SolidBrush(color), x, y, 5, 5);
+            _graphics.FillEllipse(new SolidBrush(color), x, y, size, size);
         }
 
         public void Save(string fileName) => _bitmap.Save(fileName);
